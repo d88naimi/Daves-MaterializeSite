@@ -1,0 +1,23 @@
+body {
+   min-height: 300vh;
+   
+}
+
+.logo {
+
+    font-weight: 300;
+   font-family: 'Lobster', cursive; 
+    padding-left: 10px;
+}
+
+
+#titleName{
+      font-family: 'Lobster', cursive; 
+}
+
+.contact-form{
+   padding-top: 50px;
+   padding-left: 50px;
+   padding-right: 50px;
+    
+}
